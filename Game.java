@@ -1,6 +1,5 @@
 package Game;
 /**
- * Homework 7 solution to develop the game of 'Whack-a-mole'.
  * @author Poojith Jain (poojithj@andrew.cmu.edu)
  */
 import java.awt.Color;
